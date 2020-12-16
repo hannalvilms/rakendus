@@ -4,7 +4,7 @@ require('dotenv').config()
 const port = process.env.PORT || 3000
 
 app.get('/', (req, res) => {
-  res.send('Tere tere maailm')
+  res.send('Tere, tere maailm')
 })
 
 app.listen(port, () => {
