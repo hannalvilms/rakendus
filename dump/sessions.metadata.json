@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"panga-api.sessions"}],"uuid":"937f7478b9f44aeeb568323eb4c75099","collectionName":"sessions"}
